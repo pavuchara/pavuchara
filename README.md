@@ -1,6 +1,9 @@
-### 🌐 Hi, I'm Marsel
+## 🌐 Hi, I'm Marsel
+#### Python backend developer
+[![Marsel's](https://github-readme-stats.vercel.app/api?username=pavuchara&show_icons=true&theme=radical)](https://github.com/pavuchara)
 
-### 🔧 Backend
+## 🖥️ Stack
+### Backend
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90">
@@ -30,8 +33,7 @@
   </tr>
 </table>
 
-
-### 📂 Databases
+### Databases
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90">
@@ -50,7 +52,7 @@
 </table>
 
 
-### 🛠️ Other
+### Other
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90">
@@ -79,3 +81,7 @@
     </td>
   </tr>
 </table>
+
+## 📬 Contacts
+📲 [Telegram](https://t.me/mpavuk)  
+📨 [Email](mailto:MarselPavukTw@yandex.ru)
