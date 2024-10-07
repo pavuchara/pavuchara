@@ -83,8 +83,6 @@
   </tr>
 </table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavuchara&layout=compact&theme=transparent)
-
 ## 📬 Contacts
 ### 📲 [Telegram](https://t.me/mpavuk)  
 ### 📧 [Email](mailto:MarselPavukTw@yandex.ru)
