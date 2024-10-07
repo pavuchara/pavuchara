@@ -83,6 +83,5 @@
 </table>
 
 ## 📬 Contacts
-📲 [Telegram](https://t.me/mpavuk)  
-📧 [Email](mailto:MarselPavukTw@yandex.ru)
----
+### 📲 [Telegram](https://t.me/mpavuk)  
+### 📧 [Email](mailto:MarselPavukTw@yandex.ru)
