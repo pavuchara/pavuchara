@@ -2,7 +2,6 @@
 #### Python backend developer
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pavuchara&theme=transparent)
-![Marsel's](https://github-readme-stats.vercel.app/api?username=pavuchara&show_icons=true&theme=transparent)
 
 ## 🖥️ Stack
 ### Backend
