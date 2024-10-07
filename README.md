@@ -1,10 +1,10 @@
-## 🌐 Hi, I'm Marsel
+# 🌐 Hi, I'm Marsel
 #### Python backend developer
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pavuchara&theme=transparent)
 
-## 🖥️ Stack
-### Backend
+# 🖥️ Stack
+#### Backend
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90">
@@ -34,7 +34,7 @@
   </tr>
 </table>
 
-### Databases
+#### Databases
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90">
@@ -53,7 +53,7 @@
 </table>
 
 
-### Other
+#### Other
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90">
@@ -83,6 +83,6 @@
   </tr>
 </table>
 
-## 📬 Contacts
+# 📬 Contacts
 ### 📲 [Telegram](https://t.me/mpavuk)  
 ### 📧 [Email](mailto:MarselPavukTw@yandex.ru)
