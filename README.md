@@ -1,8 +1,6 @@
-<div id="header" align="center">
-  <h1>Hi there, I'm Marsel 👋</h1>
-</div>
+### 🌐 Hi, I'm Marsel
 
-### Backend
+### 🔧 Backend
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90">
@@ -33,7 +31,7 @@
 </table>
 
 
-### Databases
+### 📂 Databases
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90">
@@ -52,7 +50,7 @@
 </table>
 
 
-### Other
+### 🛠️ Other
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90">
