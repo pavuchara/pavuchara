@@ -84,4 +84,5 @@
 
 ## 📬 Contacts
 📲 [Telegram](https://t.me/mpavuk)  
-📨 [Email](mailto:MarselPavukTw@yandex.ru)
+📧 [Email](mailto:MarselPavukTw@yandex.ru)
+---
