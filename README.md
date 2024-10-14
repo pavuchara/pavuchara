@@ -1,7 +1,9 @@
 # 🌐 Hi, I'm Marsel
 #### Python backend developer
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=pavuchara&theme=transparent)
+> There should be one-- and preferably only one --obvious way to do it.   
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavuchara&theme=transparent)
 
 # 🖥️ Stack
 #### Backend
