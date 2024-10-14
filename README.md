@@ -63,6 +63,18 @@
       <br>linux
     </td>
     <td align="center" width="90" height="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" alt="poetry" title="poetry" width="30" height="30" />
+      <br>poetry
+    </td>
+    <td align="center" width="90" height="90">
+      <img src="https://github.com/celery/celery/blob/main/docs/images/celery_512.png" alt="celery" title="pytest" alt="" width="30" height="30" />
+      <br>celery
+    </td>
+    <td align="center" width="90" height="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" alt="pytest" width="30" height="30" />
+      <br>pytest
+    </td>
+    <td align="center" width="90" height="90">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" title="git" width="30" height="30" />
         <br>git
     </td>
@@ -73,18 +85,6 @@
     <td align="center" width="90" height="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="postman" title="postman" width="30" height="30" />
       <br>postman
-    </td>
-    <td align="center" width="90" height="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" alt="poetry" title="poetry" width="30" height="30" />
-      <br>poetry
-    </td>
-    <td align="center" width="90" height="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" alt="pytest" width="30" height="30" />
-      <br>pytest
-    </td>
-    <td align="center" width="90" height="90">
-      <img src="https://github.com/celery/celery/blob/main/docs/images/celery_512.png" alt="celery" title="pytest" alt="" width="30" height="30" />
-      <br>celery
     </td>
     <td align="center" width="90" height="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" title="html" alt="" width="30" height="30" />
