@@ -90,6 +90,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" title="html" alt="" width="30" height="30" />
       <br>html
     </td>
+    <td align="center" width="90" height="90">
+      <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073" alt="RabbitMQ" title="RabbitMQ" alt="RabbitMQ" width="30" height="30" />
+      <br>RabbitMQ
+    </td>
   </tr>
 </table>
 
